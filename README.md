@@ -36,6 +36,9 @@ Esta parte já foi descrita em tarefas anteriores, manteve-se a mesma ideia. Par
 Foi necessário complementar a tabela de carecteres, incluindo letras minúsculas. A construção dessas fontes foram baseadas no code page 437 do IBM-PC disponível em https://github.com/susam/pcface.
 A "conversão" de caracteres ASCII do teclado para caracteres do SSD1306 é implementada a partir de uma modificação da função  *void ssd1306_draw_char(ssd1306_t *ssd, char c, uint8_t x, uint8_t y)* contida no programa ssd1306.c disponibilizado pelo Prof. Wilton.
 
+**Observação**
+Foi necessário reduzir a intensidade do brilho dos dígitos no ws2812 para gravar o vídeo da placa. Provavelmente a tentativa de simular no wokwi com tal valor, ficará quase imperceptível.
+
 ## Vídeos Demonstrativos
 
 Foram produzidos dois vídeos. Por quê?
