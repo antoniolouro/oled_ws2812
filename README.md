@@ -41,8 +41,8 @@ A "conversão" de caracteres ASCII do teclado para caracteres do SSD1306 é impl
 Foram produzidos dois vídeos. Por quê?
 Os caracteres mostrados no display SSD1306 são muito pequenos, difíceis de serem enxergados em um vídeo. Portanto, foi necessário criar um vídeo com a simulação no wokwi, permitindo uma melhor visualização.
 
-https://www.youtube.com/watch?v=wvjZRoPPudQ
-[![Vídeo 1](https://img.youtube.com/vi/wvjZRoPPudQ.jpg)](https://www.youtube.com/watch?v=wvjZRoPPudQ) 
+
+[![Assista no YouTube](https://img.youtube.com/vi/wvjZRoPPudQ/maxresdefault.jpg)](https://youtu.be/wvjZRoPPudQ)
 
 
 
