@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/oled_ws2812.uf2'
+elf = 'build/oled_ws2812.elf'
