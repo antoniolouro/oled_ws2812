@@ -46,3 +46,7 @@ Os caracteres mostrados no display SSD1306 são muito pequenos, difíceis de ser
 
 
 
+[![Assista no YouTube](https://img.youtube.com/vi/UmPkTOqBzmk/maxresdefault.jpg)](https://youtu.be/UmPkTOqBzmk)
+
+
+
